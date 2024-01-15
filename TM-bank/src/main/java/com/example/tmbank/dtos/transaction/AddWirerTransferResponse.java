@@ -1,2 +1,4 @@
-package com.example.tmbank.dtos.transaction;public class AddWirerTransferResponse {
+package com.example.tmbank.dtos.transaction;
+
+public class AddWirerTransferResponse {
 }

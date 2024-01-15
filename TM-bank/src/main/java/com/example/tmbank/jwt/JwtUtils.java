@@ -1,2 +1,4 @@
-package com.example.tmbank.jwt;public class JwtUtils {
+package com.example.tmbank.jwt;
+
+public class JwtUtils {
 }

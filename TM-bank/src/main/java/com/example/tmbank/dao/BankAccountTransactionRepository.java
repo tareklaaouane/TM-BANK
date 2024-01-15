@@ -1,2 +1,4 @@
-package com.example.tmbank.dao;public class BankAccountTransactionRepository {
+package com.example.tmbank.dao;
+
+public interface BankAccountTransactionRepository {
 }

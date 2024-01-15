@@ -1,2 +1,4 @@
-package com.example.tmbank.presentation.grpc;public class BankGrpcController {
+package com.example.tmbank.presentation.grpc;
+
+public class BankGrpcController {
 }

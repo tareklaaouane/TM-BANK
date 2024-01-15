@@ -1,2 +1,4 @@
-package com.example.tmbank.enums;public enum TransactionType {
+package com.example.tmbank.enums;
+
+public enum TransactionType {
 }

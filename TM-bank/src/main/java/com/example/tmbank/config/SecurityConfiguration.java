@@ -1,2 +1,4 @@
-package com.example.tmbank.config;public class SecurityConfiguration {
+package com.example.tmbank.config;
+
+public class SecurityConfiguration {
 }

@@ -1,2 +1,4 @@
-package com.example.tmbank.service;public class BankServiceApplication {
+package com.example.tmbank.service;
+
+public class BankServiceApplication {
 }

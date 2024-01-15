@@ -1,2 +1,4 @@
-package com.example.tmbank.dtos.customer;public class UpdateCustomerResponse {
+package com.example.tmbank.dtos.customer;
+
+public class UpdateCustomerResponse {
 }

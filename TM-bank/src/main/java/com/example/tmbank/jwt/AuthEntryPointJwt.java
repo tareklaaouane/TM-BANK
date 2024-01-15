@@ -1,2 +1,4 @@
-package com.example.tmbank.jwt;public class AuthEntryPointJwt {
+package com.example.tmbank.jwt;
+
+public class AuthEntryPointJwt {
 }

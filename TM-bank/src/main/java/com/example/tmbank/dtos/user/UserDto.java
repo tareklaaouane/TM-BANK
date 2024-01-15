@@ -1,2 +1,4 @@
-package com.example.tmbank.dtos.user;public class UserDto {
+package com.example.tmbank.dtos.user;
+
+public class UserDto {
 }

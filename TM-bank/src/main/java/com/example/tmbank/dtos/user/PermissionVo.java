@@ -1,2 +1,4 @@
-package com.example.tmbank.dtos.user;public class PermissionVo {
+package com.example.tmbank.dtos.user;
+
+public class PermissionVo {
 }

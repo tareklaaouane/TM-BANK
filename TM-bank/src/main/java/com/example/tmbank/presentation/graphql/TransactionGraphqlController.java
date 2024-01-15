@@ -1,2 +1,4 @@
-package com.example.tmbank.presentation.graphql;public class TransactionGraphqlController {
+package com.example.tmbank.presentation.graphql;
+
+public class TransactionGraphqlController {
 }

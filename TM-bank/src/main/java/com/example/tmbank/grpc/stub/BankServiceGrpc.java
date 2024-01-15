@@ -1,2 +1,4 @@
-package com.example.tmbank.grpc.stub;public class BankServiceGrpc {
+package com.example.tmbank.grpc.stub;
+
+public class BankServiceGrpc {
 }
