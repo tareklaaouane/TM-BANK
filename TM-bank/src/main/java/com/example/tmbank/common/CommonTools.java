@@ -1,6 +1,5 @@
 package com.example.tmbank.common;
 
-
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
@@ -12,6 +11,7 @@ import java.util.Date;
 @Component
 @Data
 public class CommonTools {
+
     @Value("${graphql.date.format}")
     private String dateFormat;
 
