@@ -1,4 +1,18 @@
 package com.example.tmbank.dtos.user;
 
-public class TokenVo {
+import lombok.*;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.List;
+
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class TokenVo implements Serializable {
+    private String username;
+    private String jwtToken;
+    private List<String> roles = new ArrayList<>();
 }

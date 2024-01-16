@@ -1,4 +1,4 @@
-package com.example.tmbank.service.model;
+package com.example.tmbank.service;
 
 
 import lombok.AllArgsConstructor;
